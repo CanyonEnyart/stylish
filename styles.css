@@ -1,0 +1,35 @@
+body {
+	margin:0;
+	text-align:center;
+	font-family: verdana, sans-serif
+}
+h1 {
+	margin:0
+}
+.top-container {
+	background-color:#DC552C;
+	positiom:relative;
+	padding-top:100px;
+}
+.middle-container {
+	background-color:#404969;
+}
+.bottom-container {
+	background-color:#D7E3F4;
+}
+.pro {
+	text-decoration:underline;
+}
+.bottom-cloud {
+	position:absolute;
+	left:350px;
+	top:300px;
+}
+.top-cloud {
+	position:absolute;
+	right: 400px;
+	top:100px;
+}
+.me {
+	width:50px;
+}
